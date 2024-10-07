@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: poppins, sans-serif;
+}
+
+.bg-custom {
+    background-color: #adf7b0b9; /* Couleur de fond du body */
+     height: 100vh; 
+}
+
+.navbar {
+    background-color: darkseagreen; /* Couleur de fond pour la navbar */
+} 
+
+.hero{
+    background-image: url('/Projet-Restaurant/Images/delicious-pizza-with-melted-cheese-tomato-basil.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.footer-custom{
+    background-color: darkseagreen;
+
+}
